@@ -21,7 +21,8 @@ sites:
     url: https://leetcode.com
   - name: W3schools
     url: https://www.w3schools.com
-    
+  - name: Invalid site
+    url: https://www.invalidsite.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
