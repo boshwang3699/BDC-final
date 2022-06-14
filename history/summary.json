@@ -130,19 +130,19 @@
     "url": "https://leetcode.com",
     "icon": "https://favicons.githubusercontent.com/leetcode.com",
     "slug": "leet-code",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 156,
-    "timeWeek": 190,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 552,
+    "timeDay": 1562,
+    "timeWeek": 655,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 11
     }
   },
   {
