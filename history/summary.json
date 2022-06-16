@@ -130,18 +130,20 @@
     "url": "https://leetcode.com",
     "icon": "https://favicons.githubusercontent.com/leetcode.com",
     "slug": "leet-code",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 208,
-    "timeWeek": 657,
-    "timeMonth": 504,
-    "timeYear": 504,
-    "dailyMinutesDown": {}
+    "time": 475,
+    "timeDay": 137,
+    "timeWeek": 598,
+    "timeMonth": 475,
+    "timeYear": 475,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "W3schools",
