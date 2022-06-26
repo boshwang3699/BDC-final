@@ -21,6 +21,10 @@ sites:
     url: https://leetcode.com
   - name: W3schools
     url: https://www.w3schools.com
+  - name: NCU CHST
+    url: https://chst.ncu.edu.tw
+  - name: Discord Bot
+    url: https://discord-coinbot.boshwang.repl.co
   - name: Invalid site
     url: https://www.invalidsite.com
 
